@@ -1,6 +1,6 @@
 /*
     YEAR-2038 Problem
-    2147483647 -> unix time stamp will end at this time, on January 19, 2038 at 3 hours 14 minutes 7 seconds
+    2147483647 seconds -> unix time stamp will end at this time, on January 19, 2038 at 3 hours 14 minutes 7 seconds
     Because 2147483647  is the maximum positive value for a 32-bit signed binary integer in computing.
 */
 
